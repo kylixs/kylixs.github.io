@@ -8,12 +8,22 @@ flare-server：  采样数据收集及分析服务
 flare-ui:   Web实现的交互操作界面  
   
 下面是几张截图及一个演示的例子。  
+一个演示片段  
+![GitHub](https://github.com/kylixs/kylixs.github.io/blob/master/flare-profiler/images/v0.1.0/demo-1.gif?raw=true)  
+   
 Profile（会话及历史）  
-
+![GitHub](https://github.com/kylixs/kylixs.github.io/blob/master/flare-profiler/images/v0.1.0/profile.png?raw=true)  
+  
 Dashboard（概要信息）  
-
+![GitHub](https://github.com/kylixs/kylixs.github.io/blob/master/flare-profiler/images/v0.1.0/dashboard.png?raw=true)  
+  
 Threads（线程CPU时间）  
+![GitHub](https://github.com/kylixs/kylixs.github.io/blob/master/flare-profiler/images/v0.1.0/threads.png?raw=true)  
 
 Call Graph （调用栈火焰图）  
-
-一个演示片段  
+![GitHub](https://github.com/kylixs/kylixs.github.io/blob/master/flare-profiler/images/v0.1.0/call_graph_1.png?raw=true)  
+  
+![GitHub](https://github.com/kylixs/kylixs.github.io/blob/master/flare-profiler/images/v0.1.0/call_graph_2.png?raw=true)  
+  
+![GitHub](https://github.com/kylixs/kylixs.github.io/blob/master/flare-profiler/images/v0.1.0/call_graph_3.png?raw=true)  
+  
